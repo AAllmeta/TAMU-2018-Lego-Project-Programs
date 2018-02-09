@@ -1,4 +1,4 @@
-% Creates Lego EV3 object, blutooth connection parameters.
+% Creates Lego EV3 blutooth connection parameters.
 myev3 = legoev3('Bluetooth','/dev/tty.EV3-SerialPort');
 
 % Connect to color sensor
